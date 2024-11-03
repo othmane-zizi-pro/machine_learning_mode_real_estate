@@ -1,0 +1,52 @@
+Country,Population,GDP per capita,Consumer spending,GLA per 1000 capita,GLA Year,GLA Source,City
+Nigeria,233,5860,4987,186,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Abuja
+Kenya,56,5764,3485,180,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Nairobi
+Zambia,21,3864,1583,138,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Lusaka
+Uganda,50,2694,1754,133,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Kampala
+Zimbabwe,17,2531,1719,113,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Harare
+Rwanda,14,2792,1904,101,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Kigali
+Mozambique,35,1468,871,67,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Maputo
+Ghana,34,6498,4104,56,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Accra
+Angola,38,6974,2986,56,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Luanda
+Tanzania,69,3097,1759,52,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Dar Es Salaam
+Malawi,22,1732,1689,46,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Lilongwe
+Ivory Coast,32,6538,3582,26,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Abidjan
+Ethiopia,132,2812,1640,22,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Addis Adaba
+Senegal,19,4209,2496,18,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Dakar
+Nigeria,233,5860,4987,17,2017-2018,https://brightafrica.riscura.com/real-estate/retail-space/\,Lagos
+Sweden,11,64578,22928,340,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Belgium,12,65027,23912,87,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Bulgaria,7,33582,15892,15,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Cyprus,1,49931,24657,79,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Croatia,3,40380,16782,279,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Czech Rep.,11,49946,16798,155,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Denmark,6,74005,22763,279,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Estonia,1,46697,17314,279,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Finland,6,59027,24054,226,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+France,67,55493,22353,220,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Germany,85,63150,25834,120,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Greece,10,36835,19324,53,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Hungary,10,41907,16128,154,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Ireland,5,126905,19740,329,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Italy,59,51865,22694,212,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Latvia,2,39956,17737,148,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Lithuania,3,48397,21120,168,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Luxembourg,1,142214,33647,197,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Malta,1,55928,19515,163,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Netherlands,18,69577,22853,429,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Poland,39,43269,19120,102,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Portugal,10,41452,19932,254,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Romania,19,41888,19758,30,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Slovakia,6,37459,16146,75,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Slovenia,2,50032,19979,373,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Spain,48,45825,20003,203,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Sweden,11,64578,22928,665,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+UK,69,54603,25738,410,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Norway,6,114899,27843,586,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+Switzerland,9,83598,31314,104,2013,https://eeg.tuwien.ac.at/commonenergy/gla-per-capita-shopping-center,
+USA,345,76399,43931,2183,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,
+Canada,40,58400,26423,1524,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,
+Australia,27,62625,25562,1031,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,
+Singapore,6,127565,29790,1078,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,
+Indonesia,283,14653,6395,446,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,Jakarta
+Thailand,72,20672,9180,808,2017,https://www.theborneopost.com/2017/05/21/too-many-malls-or-a-dying-breed/,Bangkok
